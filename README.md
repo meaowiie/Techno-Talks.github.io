@@ -339,7 +339,7 @@
 		Copyright &copy; TechnoTalks.12ICT1 2021-2022
 		</footer></div></center>
 	</body>
-</html>
+
 
 body {
 overflow-x: hidden;
@@ -600,3 +600,6 @@ box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2);
 .Sara, .Thoma, .Ayato img, .Ganyu, .Gorou {
 box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2);
 }
+
+	</style>
+</html>

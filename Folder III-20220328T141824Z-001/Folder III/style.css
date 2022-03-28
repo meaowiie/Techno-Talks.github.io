@@ -1,0 +1,259 @@
+body {
+overflow-x: hidden;
+overflow-y: scroll;
+background: rgba(130, 99, 125, 1);
+margin: 0;
+padding: 0;
+}
+
+.header{
+background: #ffffffff;
+margin: 0px;
+
+padding-bottom: 10px;
+padding-top:10px;
+
+}
+
+.Sara {
+background: rgba(155, 127, 150, 1);
+
+border-style: solid;
+border-top-width: 0px;
+border-bottom-width: 0px;
+border-left-width: 15px;
+border-right-width: 15px;
+border-color: rgba(227, 169, 190, 1);
+
+margin-left: 50px;
+margin-right: 50px;
+margin-top: 30px;
+margin-bottom: 20px;
+
+padding-bottom: 12px;
+padding-top: 12px;
+padding-right: 20px;
+padding-left: 20px;
+
+border-radius: 15px;
+}
+
+.Thoma {
+background: rgba(155, 127, 150, 1);
+
+margin-left: 50px;
+margin-right: 50px;
+margin-top: 30px;
+margin-bottom: 20px;
+
+padding-bottom: 12px;
+padding-top: 12px;
+padding-right: 20px;
+padding-left: 20px;
+
+border-radius: 15px;
+border-bottom-left-radius: 0px;
+}
+
+.Ayato img {
+border-radius: 10px;
+}
+
+.Ganyu {
+Background: rgba(227, 169, 190, 1);
+
+margin-left: 50px;
+margin-right: 520px;
+margin-top: -20px;
+margin-bottom: 10px;
+
+padding-left: 20px;
+padding-right: 20px;
+padding-top: 5px;
+padding-bottom: 5px;
+
+border-top-right-radius: 0px;
+border-top-left-radius: 0px;
+border-bottom-right-radius: 15px;
+border-bottom-left-radius: 15px;
+}
+
+.Itto {
+margin-bottom: -30px;
+margin-left: 703px;
+}
+
+.Itto img {
+border-style: solid;
+border-bottom-width: 0px;
+border-top-width: 0px;
+border-right-width: 0px;
+border-left-width: 0px;
+border-color: rgba(227, 169, 190, 0);
+
+max-width: 100px;
+height: auto;
+
+background: rgba(227, 169, 190, 1);
+
+padding-right: 70px;
+padding-left: 70px;
+padding-top: 10px;
+padding-bottom: 10px;
+
+border-bottom-right-radius: 5px;
+border-bottom-left-radius: 5px;
+border-top-right-radius: 15px;
+border-top-left-radius: 15px;
+}
+
+.Ayaka {
+Background: rgba(227, 169, 190, 1);
+font-position: center;
+
+padding-right: 100px;
+padding-left: 15px;
+padding-top: 5px;
+padding-bottom: 5px;
+
+margin-top: -1px;
+margin-right: 760px;
+margin-left: 10px;
+margin-bottom: 10px;
+
+border-bottom-right-radius: 15px;
+border-bottom-left-radius: 15px;
+}
+
+.Ayaka b {
+padding: 0 10px;
+}
+
+.Yunjin {
+Background: rgba(227, 169, 190, 1);
+font-position: center;
+
+padding-right: 100px;
+padding-left: 15px;
+padding-top: 5px;
+padding-bottom: 5px;
+
+margin-top: -1px;
+margin-right: 760px;
+margin-left: 10px;
+margin-bottom: 10px;
+
+border-bottom-right-radius: 15px;
+border-bottom-left-radius: 15px;
+}
+
+.Kazuha {
+border-color: rgba(227, 169, 190, 1);
+border-top-width: 0px;
+border-bottom-width: 0px;
+border-left-width: 0px;
+border-right-width: 0px;
+border-style: solid;
+
+box-sizing: border-box;
+background: rgba(155, 127, 150, 1);
+
+margin-left: 80px;
+margin-right: 80px;
+margin-top: 30px;
+margin-bottom: 20px;
+
+padding-bottom: 12px;
+padding-right: 20px;
+padding-left: 20px;
+
+border-bottom-right-radius: 5px;
+border-bottom-left-radius: 5px;
+border-top-right-radius: 5px;
+border-top-left-radius: 15px;
+}
+
+.Shogun {
+background: rgba(155, 127, 150, 0.9);
+
+margin-left: 80px;
+margin-right: 80px;
+margin-top: -15px;
+margin-bottom: 10px;
+
+padding-top: 5px;
+padding-bottom: 12px;
+padding-right: 20px;
+padding-left: 20px;
+
+border-top-right-radius: 5px;
+border-top-left-radius: 5px;
+}
+
+.Yoimiya {
+background: rgba(227, 169, 190, 0.9);
+
+margin-right: 750px;
+margin-left: -20px;
+
+padding-left: 20px;
+
+border-bottom-right-radius: 15px;
+border-top-right-radius: 15px;
+}
+
+.Komi {
+color: rgba(227, 169, 190, 0);
+background: rgba(227, 169, 190, 1);
+
+margin-left: 80px;
+margin-right: 80px;
+margin-top: -20px;
+margin-bottom: 40px;
+
+border-bottom-right-radius: 15px;
+border-bottom-left-radius: 15px;
+}
+
+.Gorou {
+background: rgba(155, 127, 150, 1);
+
+border-style: solid;
+border-top-width: 0px;
+border-bottom-width: 0px;
+border-left-width: 15px;
+border-right-width: 15px;
+border-color: rgba(227, 169, 190, 1);
+
+margin-left: 120px;
+margin-right: 120px;
+margin-top: 50px;
+margin-bottom: 20px;
+
+padding-bottom: 12px;
+padding-top: 12px;
+padding-right: 20px;
+padding-left: 20px;
+
+border-radius: 15px;
+}
+
+.Zhongli {
+color: white;
+background: rgba(76, 56, 72, 1);
+padding-bottom: 10px;
+padding-top: 10px;
+margin-bottom: -10px;
+}
+
+.Shogun ul, .Kazuha p {
+color: white;
+}
+
+.Kazuha, .Shogun, .Komi, .Itto img {
+box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2);
+}
+
+.Sara, .Thoma, .Ayato img, .Ganyu, .Gorou {
+box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2);
+}

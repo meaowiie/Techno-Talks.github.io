@@ -1,1 +1,651 @@
 # Techno-Talks.github.io
+<!DOCTYPE html>
+<html lang="en">
+
+	<head>
+		<title>TechnoTalks</title>
+		<link rel="stylesheet" href="style.css">
+	</head>
+	
+	<body>
+		
+			<div class="header">
+				<center><img src="ttlogo5.png" alt="TechnoTalks" title="TechnoTalks-Tech Guide"></center>
+			</div>
+		
+		<div class="Sara"><center><font color = "white"><font size = "+5"><h1 style="font-family:tahoma;">WELCOME TO TECHNOTALKS!</font></center></h1></div>
+		
+		<div class="Ayato"><center><img src="wul.jpeg"></center></div>
+		
+		<div class="Thoma">
+		
+		<font color = "white"><h4 style="font-family:Arial, Helvetica, sans-serif;">
+		Editing softwares can be a little too intimidating and complex for some users who are wanting to get the best quality possible, and many would hope to get the best features for an affordable price.  
+		</font></h4>
+		<font color = "white"><h4 style="font-family:Arial, Helvetica, sans-serif;">	
+		Photos are great if you want to visualize something and add something to your technological media experience. And so, novices would like to find budget-friendly and convenient applications.
+		</font></h4>
+		<font color = "white"><h4 style="font-family:Arial, Helvetica, sans-serif;">
+		Provided to you by TechnoTalks, here are our recommended photo editing applications that comes with each of it's pros and cons to find the one you most likely prefer.
+		</font></h4>
+		
+		</div>
+		
+		<!--add introduction sooner or later-->
+		
+			<div class="Ganyu"><font color="black"><h3>FEELING ARTISTIC? CLICK ON THE LOGO!</h3></font></div>
+			
+			</font>
+		
+		<br>
+		
+		
+			
+			<div class="Itto">
+			
+			<a href="https://www.canva.com"><img src="canvalogo.png" width="200" height="100"></a>
+			
+			</div>
+			
+		<div class="Kazuha">
+			
+			<div class="Ayaka">	
+			<b>CANVA</b> 
+			</div>
+			
+			<p>is a freemium online designing and publishing (web-based) tool with a mission to empower everyone in the world to design anything and publish anywhere. The app can also be downloaded for mobile phones, both Android and Apple.</p>
+			
+		</div>
+		
+			
+		<div class="Shogun">
+		
+				<div class="Yoimiya"><h3>Pros</h3></p></div> 
+				
+					<ul>
+					<li>No professional skills needed to start designing.</li>
+					<li>It’s safe to use and user friendly.</li>
+					<li>The site offers numerous ready-to-use templates, where you just basically drag and drop.</li>
+					<li>Allows you to share your design to multiple platforms.</li>
+					</ul>
+					
+				<div class="Yoimiya"><h3>Cons</h3></div>
+				
+					<ul>
+					<li>The raw files cannot be downloaded on your device.</li>
+					<li>Canva can be annoying when searching images, elements, and templates. </li>
+					<li>The free version is limited, which stops you to use the other helpful tools.</li>
+					</ul>
+				
+		</div>
+		
+					<div class="Komi"> ! </div>
+			
+			
+			
+		
+				
+			<div class="Itto">
+				<a href="https://www.photopea.com"><img src="pplogo.png" width="150" height="150"></a>
+			</div>
+				
+			<table>
+			<tr>
+		
+		<div class="Kazuha">
+		
+			<div class="Yunjin">
+			<b>PHOTOPEA</b> 
+			</div>
+			
+			<p>is a web-based photo & graphics editor which can work with raster and vector graphics. It can be used for image editing, making illustrations, web design or converting between different image formats. Photopea is advertising-supported software.</p>
+			
+		</div>
+
+		<div class="Shogun">
+
+				<div class="Yoimiya"><h3>Pros</h3></div>
+				
+					<ul>
+					<li>It does not require an operating system or special hardware. It works from the browser with all computers.</li>
+					<li>Available for any device with an Internet connection. Also, mobile.</li>
+					<li>You can work with PSD and Sketch.</li>
+					<li>It is completely free (with support).</li>
+					</ul>
+					
+				<div class="Yoimiya"><h3>Cons</h3></div>
+				
+					<ul>
+					<li>You may find some limitations for advanced or professional users.</li>
+					<li>RAW support can be improved.</li>
+					<li>You may run into some performance issues when working with large files.</li>
+					<li>Files are vulnerable since it has no auto save. Works can only be saved manually.</li>
+					</ul>
+					
+		</div>
+					
+					<div class="Komi"> ! </div>
+					
+					
+					
+					
+				
+
+			<div class="Itto">
+			<a href="https://pixlr.com"><img src="pixlrlogo.png"></a>
+			</div>
+			
+			<div class="Kazuha">
+			
+			<div class="Ayaka"><b>PIXLR</b></div>
+			
+			
+			<p>is a cloud-based set of image editing tools and utilities, including a number of photo editors and a photo sharing service. The suite is intended from the range of simple to advanced photo editing.</p>
+			
+			</div>
+			
+			
+			<div class="Shogun">
+			<div class="Yoimiya"><h3>Pros</h3></div>
+				<ul>
+					<li>Provides an intuitive interface with most of the basic tools you'd need for simple editing tasks.</li>
+					<li>Can be used immediately without even having to create an account.</li>
+				</ul>
+			<div class="Yoimiya"><h3>Cons</h3></div>
+				<ul>
+					<li>Lacks some handy tools like clone and healing tools.</li>
+				</ul>
+			
+			</div>
+				
+				<div class="Komi">!</div>
+				
+				
+
+
+
+			<div class="Itto"><a href="https://picsart.com"><img src="picsartlogo.png" width="150" height="150"></a></div>
+			<div class="Kazuha">
+			<div class="Ayaka"><b>PICSART</b></div>
+			
+			
+			<p>(Photo and Video Editor), the most commonly known app for designing, photo, and video editing. There are many users of PicsArt, because its easy to understand. It can run on multiple OS; Windows, macOS, Android, and iOS.</p>
+			
+			</div>
+
+
+				<div class="Shogun">
+			<div class="Yoimiya"><h3>Pros</h3></div>
+				<ul>
+					<li>The edits can be shared through various social media platforms.</li>
+					<li>The free version itself contains a lot of helpful tools.</li>
+				</ul>
+			<div class="Yoimiya"><h3>Cons</h3></div>
+				<ul>
+					<li>Requires internet connection.</li>
+					<li>It has pop-up advertisements which can get very annoying.</li>
+					<li>It won’t be available for mobile devices with low memory spaces due to its file size.</li>
+				</ul>
+				</div>
+			
+				<div class="Komi">!</div>
+				
+				
+				
+				
+				<div class="Itto"><a href="https://www.gimp.org"><img src="gimplogo.png" width="200" height="200"></a></div>
+			
+				<div class="Kazuha">
+				<div class="Ayaka"><b>GIMP</b></div> 
+			
+			
+			<p>is a cross-platform image editor available for GNU/Linux, OS X, Windows and more operating systems. It is free software; you can change its source code and distribute your changes.</p>
+
+				</div>
+
+				<div class="Shogun">
+
+				<div class="Yoimiya"><h3>Pros</h3></div>
+				<ul>
+					<li>GIMP has a very intuitive interface so you can always layer all the images or make a different image from scratch.</li>
+					<li>Can be used to create GIFs using many layers.</li>
+					<li>Completely free of charge and open source.</li>
+					<li>Allows you to edit images of various formats.</li>
+				</ul>
+				<div class="Yoimiya"><h3>Cons</h3></div>
+				<ul>
+					<li>It contains limited third-party plugins.</li>
+					<li>GIMP does not perform well if you need to edit big images with lots of layers.</li>
+					<li>Creating a good-looking arc shape in GIMP software may be difficult.</li>
+					<li>GIMP cannot handle anything other than 8bit RGB, grayscale as well as indexed images.</li>
+				</ul>
+				
+				</div>
+				
+				<div class="Komi"> ! </div>
+				
+				
+				
+				
+
+				<div class="Itto"><a href="https://krita.org/en/download/krita-desktop/"><img src="kritalogo.png" width="200" height="200"></a></div>
+				
+				<div class="Kazuha">
+				<div class="Ayaka"><b>KRITA</b></div>
+			
+			
+			<p>is a free and open-source raster graphics editor designed primarily for digital painting and 2D animation. It runs on Windows, macOS, Linux, Android and Chrome OS. </p>
+
+				</div>
+				
+				
+				<div class="Shogun">
+				<div class="Yoimiya"><h3>Pros</h3></div>
+				<ul>
+					<li>Krita offers users an incredibly vast selection of brushes, providing full artistic flexibility.</li>
+					<li>It is completely free, which means you don’t have to either buy it or rent it!</li>
+					<li>It supports layers and has dedicated layer management features to help you organize your workspace.</li>
+					<li>Krita Foundation offers plenty of educational materials to help you get to grips with the program and its features.</li>
+				</ul>
+				<div class="Yoimiya"><h3>Cons</h3></div>
+				<ul>
+					<li>Some features such as the layer modes and transformation tools can seem unintuitive and confusing to new users.</li>
+					<li>Fast-paced brush movements may cause the program to lag slightly.</li>
+					<li>It may have to be used in combination with other programs in order for you to access the full capabilities, which might slow down your workflow due to switching between applications.</li>
+				</ul>
+				
+				</div>
+				
+				<div class="Komi">!</div>
+				
+				
+				
+				
+				
+				
+			
+			<div class="Gorou"><center><font size="1" color="white"><h1>MOBILE APPLICATIONS</h1></font></center></div>
+			
+			
+			
+			<div class="Itto"><a href="https://play.google.com/store/apps/details?id=com.niksoftware.snapseed&hl=en&gl=US"><img src="snaplogo.png" width="150" height="150"></a></div>
+			
+			
+			<div class="Kazuha">
+			<div class="Yunjin"><b>SNAPSEED</b></div>
+			
+			<p>one of the best app for enhancing photo. Snapseed has sets of impressive tools, wherein you can make fine adjustments which are not possible with most other apps.<br>
+				Snapseed is compatible with most common platforms (Windows 7/8/10, Mac, Android, and iOS), but it’s best when used in Mobile devices.</p>
+			
+			</div>
+				
+			<div class="Shogun">
+			<div class="Yoimiya"><h3>Pros</h3></div>
+				<ul>
+					<li>Features pro-level editing tools and allows you to undo and re-edit your edits.</li>
+					<li>Interface can easy be manipulated by just swiping your screen, left to right.</li>
+					<li>The developers instantly update the application that solves major/minor bugs and add new useful tools./li>
+				</ul>
+			<div class="Yoimiya"><h3>Cons</h3></div>
+				<ul>
+					<li>Not beginner-friendly, using the app can take time for leaning the process.</li>
+					<li>Limited social integration, Snapseed does not support Instagram and Flickr.</li>
+				</ul>
+			</div>
+			<div class="Komi">!</div>
+				
+				
+				
+				
+				
+		
+			<div class="Itto"><a href="https://vsco.co/download"><img src="vscologo.png" width="150" height="150"></a></div>
+			<div class="Kazuha">
+			<div class="Ayaka"><b>VSCO</b></div>
+			
+			<p>is a mobile app for iOS (11+ OS) and Android (5+ OS) devices. VSCO allows the users to capture photos using the app and edit them, with the use of preset filters and editing tools. <br>
+				This app is used for the “Aesthetic” vibe, mostly posted on Instagram. </p>
+			</div>
+			
+			<div class="Shogun">
+			<div class="Yoimiya"><h3>Pros</h3></div>
+				<ul>
+					<li>A safe app, only those mutual (people who you follow, who also follows you back) are the only ones who can see your posts. <br>
+						 Apart from that, the app only allows the user to view your posts and they can’t like or comment.</li>
+			
+				</ul>
+			<div class="Yoimiya"><h3>Cons</h3></div>
+				<ul>
+					<li>The app is only limited to mobile phones, it does not support web or desktop versions.</li>
+					<li>Limited to few filters and tool kits, you must be premium to access/unlock the others.</li>
+				</ul>
+			</div>
+			<div class="Komi">!</div>
+				
+				
+				
+				
+				
+				
+			<div class="Itto">
+			<a href="https://play.google.com/store/apps/details?id=photo.editor.polarr&hl=en&gl=US"><img src="polarlogo.png" width="300" height="130"></a></div>
+			<div class="Kazuha">
+			<div class="Yunjin"><b>POLARR</b></div>
+			
+			<p>can be called as one of the best free photo editing software. The design more accessible than other complex programs. <br>
+				Polarr was first launched for iOS and later on launched for Android, Windows 10 and macOS.</p>
+			</div>
+
+			<div class="Shogun">
+				<div class="Yoimiya"><h3>Pros</h3></div>
+				<ul>
+					<li>Polarr is a touch -friendly interface</li>
+					<li>Can be used immediately without even having to create an account./li>
+					<li>Can be downloadable on computers with low specs, due to its low file size.</li>
+				</ul>
+				<div class="Yoimiya"><h3>Cons</h3></div>
+				<ul>
+					<li>Limits the number of filters you can use.</li>
+					<li>Does not support RAW files.</li>
+				</ul>
+			</div>
+			<div class="Komi">!</div>
+			
+				
+			
+			
+			
+			
+			
+			<div class="Itto"><a href="https://play.google.com/store/apps/details?id=com.prequel.app&hl=en&gl=US"><img src="prequellogo.png" width="200" height="200"></a></div>
+			
+			<div class="Kazuha">
+			<div class="Yunjin"><b>PREQUEL</b></div>
+			
+			<p>is a photo filters and video effects editing app with the most aesthetic presets. It offers a handpicked selection of filters for pictures. It is intended for all those who want to put the finishing touches to their Insta Story. The effects give photos and videos a retro look or the hip Glitch look.</p>
+			
+			</div>
+			<div class="Shogun">
+			
+				<div class="Yoimiya"><h3>Pros</h3></div>
+				<ul>
+					<li>Essential app for influencers.</li>
+					<li>Prequel has a simple user interface, which makes it easy to use.</li>
+					<li>Prequel offers over 50 effects and filters designed to help create more “artistic” photos.</li>
+				</ul>
+				<div class="Yoimiya"><h3>Cons</h3></div>
+				<ul>
+					<li>Filters loads slow.</li>
+					<li>Crashing issues.</li>
+				</ul>
+		
+			</div>
+			
+			<div class="Komi">!</div>
+		
+		
+		<center><div class="Zhongli"><footer>
+		Copyright &copy; TechnoTalks.12ICT1 2021-2022
+		</footer></div></center>
+	</body>
+</html>
+
+body {
+overflow-x: hidden;
+overflow-y: scroll;
+background: rgba(130, 99, 125, 1);
+margin: 0;
+padding: 0;
+}
+
+.header{
+background: #ffffffff;
+margin: 0px;
+
+padding-bottom: 10px;
+padding-top:10px;
+
+}
+
+.Sara {
+background: rgba(155, 127, 150, 1);
+
+border-style: solid;
+border-top-width: 0px;
+border-bottom-width: 0px;
+border-left-width: 15px;
+border-right-width: 15px;
+border-color: rgba(227, 169, 190, 1);
+
+margin-left: 50px;
+margin-right: 50px;
+margin-top: 30px;
+margin-bottom: 20px;
+
+padding-bottom: 12px;
+padding-top: 12px;
+padding-right: 20px;
+padding-left: 20px;
+
+border-radius: 15px;
+}
+
+.Thoma {
+background: rgba(155, 127, 150, 1);
+
+margin-left: 50px;
+margin-right: 50px;
+margin-top: 30px;
+margin-bottom: 20px;
+
+padding-bottom: 12px;
+padding-top: 12px;
+padding-right: 20px;
+padding-left: 20px;
+
+border-radius: 15px;
+border-bottom-left-radius: 0px;
+}
+
+.Ayato img {
+border-radius: 10px;
+}
+
+.Ganyu {
+Background: rgba(227, 169, 190, 1);
+
+margin-left: 50px;
+margin-right: 520px;
+margin-top: -20px;
+margin-bottom: 10px;
+
+padding-left: 20px;
+padding-right: 20px;
+padding-top: 5px;
+padding-bottom: 5px;
+
+border-top-right-radius: 0px;
+border-top-left-radius: 0px;
+border-bottom-right-radius: 15px;
+border-bottom-left-radius: 15px;
+}
+
+.Itto {
+margin-bottom: -30px;
+margin-left: 703px;
+}
+
+.Itto img {
+border-style: solid;
+border-bottom-width: 0px;
+border-top-width: 0px;
+border-right-width: 0px;
+border-left-width: 0px;
+border-color: rgba(227, 169, 190, 0);
+
+max-width: 100px;
+height: auto;
+
+background: rgba(227, 169, 190, 1);
+
+padding-right: 70px;
+padding-left: 70px;
+padding-top: 10px;
+padding-bottom: 10px;
+
+border-bottom-right-radius: 5px;
+border-bottom-left-radius: 5px;
+border-top-right-radius: 15px;
+border-top-left-radius: 15px;
+}
+
+.Ayaka {
+Background: rgba(227, 169, 190, 1);
+font-position: center;
+
+padding-right: 100px;
+padding-left: 15px;
+padding-top: 5px;
+padding-bottom: 5px;
+
+margin-top: -1px;
+margin-right: 760px;
+margin-left: 10px;
+margin-bottom: 10px;
+
+border-bottom-right-radius: 15px;
+border-bottom-left-radius: 15px;
+}
+
+.Ayaka b {
+padding: 0 10px;
+}
+
+.Yunjin {
+Background: rgba(227, 169, 190, 1);
+font-position: center;
+
+padding-right: 100px;
+padding-left: 15px;
+padding-top: 5px;
+padding-bottom: 5px;
+
+margin-top: -1px;
+margin-right: 760px;
+margin-left: 10px;
+margin-bottom: 10px;
+
+border-bottom-right-radius: 15px;
+border-bottom-left-radius: 15px;
+}
+
+.Kazuha {
+border-color: rgba(227, 169, 190, 1);
+border-top-width: 0px;
+border-bottom-width: 0px;
+border-left-width: 0px;
+border-right-width: 0px;
+border-style: solid;
+
+box-sizing: border-box;
+background: rgba(155, 127, 150, 1);
+
+margin-left: 80px;
+margin-right: 80px;
+margin-top: 30px;
+margin-bottom: 20px;
+
+padding-bottom: 12px;
+padding-right: 20px;
+padding-left: 20px;
+
+border-bottom-right-radius: 5px;
+border-bottom-left-radius: 5px;
+border-top-right-radius: 5px;
+border-top-left-radius: 15px;
+}
+
+.Shogun {
+background: rgba(155, 127, 150, 0.9);
+
+margin-left: 80px;
+margin-right: 80px;
+margin-top: -15px;
+margin-bottom: 10px;
+
+padding-top: 5px;
+padding-bottom: 12px;
+padding-right: 20px;
+padding-left: 20px;
+
+border-top-right-radius: 5px;
+border-top-left-radius: 5px;
+}
+
+.Yoimiya {
+background: rgba(227, 169, 190, 0.9);
+
+margin-right: 750px;
+margin-left: -20px;
+
+padding-left: 20px;
+
+border-bottom-right-radius: 15px;
+border-top-right-radius: 15px;
+}
+
+.Komi {
+color: rgba(227, 169, 190, 0);
+background: rgba(227, 169, 190, 1);
+
+margin-left: 80px;
+margin-right: 80px;
+margin-top: -20px;
+margin-bottom: 40px;
+
+border-bottom-right-radius: 15px;
+border-bottom-left-radius: 15px;
+}
+
+.Gorou {
+background: rgba(155, 127, 150, 1);
+
+border-style: solid;
+border-top-width: 0px;
+border-bottom-width: 0px;
+border-left-width: 15px;
+border-right-width: 15px;
+border-color: rgba(227, 169, 190, 1);
+
+margin-left: 120px;
+margin-right: 120px;
+margin-top: 50px;
+margin-bottom: 20px;
+
+padding-bottom: 12px;
+padding-top: 12px;
+padding-right: 20px;
+padding-left: 20px;
+
+border-radius: 15px;
+}
+
+.Zhongli {
+color: white;
+background: rgba(76, 56, 72, 1);
+padding-bottom: 10px;
+padding-top: 10px;
+margin-bottom: -10px;
+}
+
+.Shogun ul, .Kazuha p {
+color: white;
+}
+
+.Kazuha, .Shogun, .Komi, .Itto img {
+box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2);
+}
+
+.Sara, .Thoma, .Ayato img, .Ganyu, .Gorou {
+box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2);
+}

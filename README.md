@@ -1,4 +1,3 @@
-# Techno-Talks.github.io
 <!DOCTYPE html>
 <html lang="en">
 
@@ -39,8 +38,6 @@
 		
 		<br>
 		
-		
-			
 			<div class="Itto">
 			
 			<a href="https://www.canva.com"><img src="canvalogo.png" width="200" height="100"></a>
@@ -57,7 +54,6 @@
 			
 		</div>
 		
-			
 		<div class="Shogun">
 		
 				<div class="Yoimiya"><h3>Pros</h3></p></div> 
@@ -81,10 +77,6 @@
 		
 					<div class="Komi"> ! </div>
 			
-			
-			
-		
-				
 			<div class="Itto">
 				<a href="https://www.photopea.com"><img src="pplogo.png" width="150" height="150"></a>
 			</div>
@@ -126,11 +118,6 @@
 					
 					<div class="Komi"> ! </div>
 					
-					
-					
-					
-				
-
 			<div class="Itto">
 			<a href="https://pixlr.com"><img src="pixlrlogo.png"></a>
 			</div>
@@ -160,10 +147,6 @@
 				
 				<div class="Komi">!</div>
 				
-				
-
-
-
 			<div class="Itto"><a href="https://picsart.com"><img src="picsartlogo.png" width="150" height="150"></a></div>
 			<div class="Kazuha">
 			<div class="Ayaka"><b>PICSART</b></div>
@@ -172,7 +155,6 @@
 			<p>(Photo and Video Editor), the most commonly known app for designing, photo, and video editing. There are many users of PicsArt, because its easy to understand. It can run on multiple OS; Windows, macOS, Android, and iOS.</p>
 			
 			</div>
-
 
 				<div class="Shogun">
 			<div class="Yoimiya"><h3>Pros</h3></div>
@@ -189,9 +171,6 @@
 				</div>
 			
 				<div class="Komi">!</div>
-				
-				
-				
 				
 				<div class="Itto"><a href="https://www.gimp.org"><img src="gimplogo.png" width="200" height="200"></a></div>
 			
@@ -224,10 +203,6 @@
 				
 				<div class="Komi"> ! </div>
 				
-				
-				
-				
-
 				<div class="Itto"><a href="https://krita.org/en/download/krita-desktop/"><img src="kritalogo.png" width="200" height="200"></a></div>
 				
 				<div class="Kazuha">
@@ -258,14 +233,7 @@
 				
 				<div class="Komi">!</div>
 				
-				
-				
-				
-				
-				
-			
 			<div class="Gorou"><center><font size="1" color="white"><h1>MOBILE APPLICATIONS</h1></font></center></div>
-			
 			
 			
 			<div class="Itto"><a href="https://play.google.com/store/apps/details?id=com.niksoftware.snapseed&hl=en&gl=US"><img src="snaplogo.png" width="150" height="150"></a></div>
@@ -293,12 +261,6 @@
 				</ul>
 			</div>
 			<div class="Komi">!</div>
-				
-				
-				
-				
-				
-		
 			<div class="Itto"><a href="https://vsco.co/download"><img src="vscologo.png" width="150" height="150"></a></div>
 			<div class="Kazuha">
 			<div class="Ayaka"><b>VSCO</b></div>
@@ -321,11 +283,6 @@
 				</ul>
 			</div>
 			<div class="Komi">!</div>
-				
-				
-				
-				
-				
 				
 			<div class="Itto">
 			<a href="https://play.google.com/store/apps/details?id=photo.editor.polarr&hl=en&gl=US"><img src="polarlogo.png" width="300" height="130"></a></div>
@@ -350,13 +307,7 @@
 				</ul>
 			</div>
 			<div class="Komi">!</div>
-			
-				
-			
-			
-			
-			
-			
+		
 			<div class="Itto"><a href="https://play.google.com/store/apps/details?id=com.prequel.app&hl=en&gl=US"><img src="prequellogo.png" width="200" height="200"></a></div>
 			
 			<div class="Kazuha">
